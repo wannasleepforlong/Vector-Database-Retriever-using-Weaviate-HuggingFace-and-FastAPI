@@ -1,2 +1,2 @@
-# Vector-Database-Retrieverr-using-Weaviate
+# Vector-Database-Retriever-using-Weaviate
 Zzzzzzz
