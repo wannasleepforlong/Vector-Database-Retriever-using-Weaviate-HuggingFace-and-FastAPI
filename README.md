@@ -29,4 +29,4 @@ This project aims to leverage the open-source Weaviate vector database for vecto
 
 ## Credits
 - Dataset used https://www.kaggle.com/datasets/athu1105/book-genre-prediction
-- Thanks to [Leonie](https://medium.com/@iamleonie) for Weaviatte tutorial
+- Thanks to [Leonie](https://medium.com/@iamleonie) for Weaviate tutorial
