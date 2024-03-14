@@ -23,3 +23,6 @@ This project aims to leverage the open-source Weaviate vector database for vecto
 3. Copy the link to your browser (e.g., http://127.0.0.1:8000).
 4. Add '/docs' at the end of the link (e.g., http://127.0.0.1:8000/docs).
 5. Scroll down to 'Get' and you can change the query and test the program.
+
+![image](https://github.com/wannasleepforlong/Vector-Database-Retriever-using-Weaviate/assets/109717763/b249911a-8c1b-43dd-8f31-348893597607)
+
