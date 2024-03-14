@@ -26,3 +26,7 @@ This project aims to leverage the open-source Weaviate vector database for vecto
 
 ![image](https://github.com/wannasleepforlong/Vector-Database-Retriever-using-Weaviate/assets/109717763/b249911a-8c1b-43dd-8f31-348893597607)
 
+
+##Credits
+- Dataset used https://www.kaggle.com/datasets/athu1105/book-genre-prediction
+- Thanks to [Leonie](https://medium.com/@iamleonie) for Weaviatte tutorial
