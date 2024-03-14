@@ -1,6 +1,6 @@
 # Vector Database Retriever using Weaviate, HuggingFace, and FastAPI
 
-This project demonstrates how to build a vector database retriever using Weaviate and the Hugging Face API. With this setup, you can store data objects and vector embeddings, enabling efficient retrieval based on similarity measures and deploy it using FastAPI.
+This project demonstrates how to build a vector database retriever using Weaviate and the Hugging Face API and deploy it using FastAPI. With this setup, you can store data objects and vector embeddings, enabling efficient retrieval based on similarity measures.
 
 ## Introduction
 
