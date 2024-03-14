@@ -12,7 +12,7 @@ This project aims to leverage the open-source Weaviate vector database for vecto
 
 ## Features
 
-- **Vectorize Database**: Utilize Weaviate's text2vec module to vectorize textual data for efficient storage and retrieval.
+- **Vectorize Database**: Utilize text2vec module to vectorize textual data for efficient storage and retrieval.
 - **Vector Search**: Retrieve the two closest responses from the database based on a given query, utilizing similarity measures.
 - **FastAPI Integration**: Integrate Weaviate functionality with a FastAPI application to provide HTTP endpoints for adding data to the database and retrieving results based on user queries.
 
